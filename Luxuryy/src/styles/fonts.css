@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-primary: 'Cairo', 'GE SS Two', sans-serif;
+  --font-display: 'Playfair Display', serif;
+  --gold: #C9A800;
+  --gold-light: #E2C84B;
+  --gold-dark: #9A7D00;
+  --dark: #0A0A0A;
+  --dark-surface: #111111;
+  --dark-card: #1A1A1A;
+}
